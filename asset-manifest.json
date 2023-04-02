@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactshoppingcart.gitub.io/static/css/main.b3d04e04.css",
+    "main.js": "/reactshoppingcart.gitub.io/static/js/main.f5077a24.js",
+    "static/js/787.c337d5b1.chunk.js": "/reactshoppingcart.gitub.io/static/js/787.c337d5b1.chunk.js",
+    "index.html": "/reactshoppingcart.gitub.io/index.html",
+    "main.b3d04e04.css.map": "/reactshoppingcart.gitub.io/static/css/main.b3d04e04.css.map",
+    "main.f5077a24.js.map": "/reactshoppingcart.gitub.io/static/js/main.f5077a24.js.map",
+    "787.c337d5b1.chunk.js.map": "/reactshoppingcart.gitub.io/static/js/787.c337d5b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d04e04.css",
+    "static/js/main.f5077a24.js"
+  ]
+}
